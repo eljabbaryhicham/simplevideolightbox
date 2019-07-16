@@ -92,7 +92,7 @@ font-family: thiaga;
 button {
     border: none;
     padding: 10px;
-    background: #f7f0ff69;
+    background: #f7f0ff69 !important;
     color: #fff;
     font-family: 'Lato', Calibri, Arial, sans-serif;
     font-size: 1em;
