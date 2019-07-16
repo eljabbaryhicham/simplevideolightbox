@@ -333,11 +333,12 @@ video#color-bg {
 .bgimg {
     width: 100%;
     height: 100%;
-    position: fixed;
     background-image: linear-gradient(to right top, #9100ff, #a200ff, #7f508d, #8e66a7, #5656b3, #004bff, #0ea9ff, #00d0ff, #00a1ff, #00b4ff, #4e62a9, #5273d0);
     opacity: 0.4;
     filter: blur(10px);
     background: linear-gradient(to right, #592370 , #000ba9 , #0f00f9);
+    min-height: 100%;
+    position: fixed;
 }
 
 
