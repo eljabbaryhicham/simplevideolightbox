@@ -367,7 +367,7 @@ iframe {
 .bg {
     pointer-events: none;
     cursor: none;
-    position: fixed;
+    position: absolute;
 }
 
 
