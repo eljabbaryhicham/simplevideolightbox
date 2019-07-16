@@ -92,7 +92,7 @@ font-family: thiaga;
 button {
     border: none;
     padding: 10px;
-    background: #f7f0ff66;
+    background: #f7f0ff26;
     color: #fff;
     font-family: 'Lato', Calibri, Arial, sans-serif;
     font-size: 1em;
@@ -109,7 +109,6 @@ button {
     transition-duration: 0.5s;
     transition-timing-function: ease-out;
 }
-
 
 
 
