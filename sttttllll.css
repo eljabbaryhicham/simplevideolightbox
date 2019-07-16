@@ -46,8 +46,13 @@ a:active {
 }
 
 .container > header {
-	text-align: center;
-	    color: #fff;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.31);
+    padding: 0.5em;
+    position: relative;
+    pointer-events: none;
+    cursor: none;
+    padding-bottom: 50px;
 }
 
 .container > header h1 {
@@ -254,14 +259,7 @@ button:hover {
     font-size: 30px;
 }
 
-.container > header {
-      text-align: center;
-    background: rgba(0,0,0,0.1);
-    padding: 0.5em;
-    position: relative;
-    pointer-events: none;
-    cursor: none;
-}
+
 canvas {
     position: absolute;
     top: 0px;
